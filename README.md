@@ -1,5 +1,8 @@
 # Diagramas
 
+## The LLMOps Reliability Stack
+https://www.tldraw.com/f/rT9JO29gwujTcxxXyhlCv?d=v0.0.1660.871.7lgPBgjg4wbb2PzK416Vg
+
 ## Serviços AWS 
 https://www.tldraw.com/f/fa5iml06ujzTujrgGz9HD?d=v-2610.-894.7753.4330.RHagWdfAgE44cwjuJKqfq
 
