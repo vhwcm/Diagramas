@@ -1,3 +1,6 @@
+## Blog sobre diagramas no conhecimento
+https://www.notion.so/Blog-2a53c65686d480fe8ce8ddb10f77fff7?p=2a53c65686d4816596b3e02688c38811&pm=c
+
 # Diagramas
 
 ## Serviços AWS 
